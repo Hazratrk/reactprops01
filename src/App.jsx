@@ -3,6 +3,8 @@ import Header from "./components/Header";
 import Banner from "./components/Banner";
 import SubscriptionForm from "./components/SubscriptionForm";
 import Footer from "./components/Footer";
+import "./App.css";
+
 
 function App() {
   return (
